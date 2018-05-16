@@ -1,4 +1,7 @@
 {
   "name": "mean-machine-test",
-  "main": "server.js"
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
